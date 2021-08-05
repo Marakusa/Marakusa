@@ -10,7 +10,8 @@ I know the very basics of using a Linux server because I have one.
 
 If you want to contact me...
 - Discord: Mara#2222
-- Twitter: @Marakusa_
+- [Steam](https://steamcommunity.com/id/Marakusa/)
+- [Twitter](https://twitter.com/Marakusa_)
 
 Well I guess that's it for now 😄
 
