@@ -2,7 +2,6 @@
 
 My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games.
 
-## About
 I know **C#**, **JavaScript**, **Python**, **HTML**, **PHP**, **MySQL**, and **MSSQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org).
 
 I'll next want to learn more about web development like Node.js would be interesting. Also, I would someday like to learn C++, but I don't know about it because it would take some time to master.
