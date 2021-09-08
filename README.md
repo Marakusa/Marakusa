@@ -8,9 +8,9 @@ I'll next want to learn more about web development like Node.js would be interes
 I have used Linux before, and I know the very basics of hosting a Linux server.
 
 ## Currenty developing
+- Password manager https://github.com/Marakusa/passman
+- An open source chat application https://github.com/Marakusa/NeoChat
 - Clown shooter video game with a team of 4 people
-- Application where you can save and manage your code snippets
-- An open source chat application
 
 ## Contact
 If you want to contact me:
