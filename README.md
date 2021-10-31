@@ -9,8 +9,9 @@ I have used Manjaro Linux on my main PC for a while, and I know a bit about host
 
 ## Some projects to check out
 - Lightweight and simple text editor for linux https://github.com/Marakusa/Scribbit
-- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
 - Open source chat application https://github.com/Marakusa/NeoChat
+- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
+- AUR package installer for Arch Linux https://github.com/Marakusa/ari
 
 ## Contact
 If you want to contact me:
