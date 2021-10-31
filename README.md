@@ -7,9 +7,10 @@ I know **C#**, **JavaScript**, **Node.js**, **Python**, **HTML**, **PHP**, **MyS
 Also, I would someday like to learn C++, but I don't know about it because it would take some time to master.
 I have used Manjaro Linux on my main PC for a while, and I know a bit about hosting a Linux server.
 
-## Currenty developing
-- An open source cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
-- An open source chat application https://github.com/Marakusa/NeoChat
+## Some projects to check out
+- Lightweight and simple text editor for linux https://github.com/Marakusa/Scribbit
+- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
+- Open source chat application https://github.com/Marakusa/NeoChat
 
 ## Contact
 If you want to contact me:
