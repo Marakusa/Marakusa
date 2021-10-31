@@ -11,7 +11,7 @@ I have used Manjaro Linux on my main PC for a while, and I know a bit about host
 - Lightweight and simple text editor for linux https://github.com/Marakusa/Scribbit
 - Open source chat application https://github.com/Marakusa/NeoChat
 - Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
-- AUR package installer for Arch Linux https://github.com/Marakusa/ari
+- AUR repository package installer for Arch Linux https://github.com/Marakusa/ari
 
 ## Contact
 If you want to contact me:
