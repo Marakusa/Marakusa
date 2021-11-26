@@ -2,7 +2,7 @@
 
 My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games.
 
-I know **C#**, **JavaScript**, **Node.js**, **Python**, **HTML**, **PHP**, **MySQL**, and **MSSQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org) (webpage not temporarily running).
+I know **C#**, **JavaScript**, **Node.js**, **Python**, **HTML**, **PHP**, **MySQL**, and **MSSQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org).
 
 Also, I would someday like to learn C++, but I don't know about it because it would take some time to master.
 I have used Manjaro Linux on my main PC for a while, and I know a bit about hosting a Linux server.
