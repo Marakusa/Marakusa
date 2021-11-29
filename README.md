@@ -8,11 +8,11 @@ Also, I would someday like to learn C++, but I don't know about it because it wo
 I have used Manjaro Linux on my main PC for a while, and I know a bit about hosting a Linux server.
 
 ## Some projects to check out
-- Lightweight and simple text editor for linux https://github.com/Marakusa/Scribbit
 - Open source chat application https://github.com/Marakusa/NeoChat
-- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
-- AUR repository package installer for Arch Linux https://github.com/Marakusa/ari
 - OpenGL Minecraft clone created with .NET https://github.com/Marakusa/VoxelGame
+- AUR repository package installer for Arch Linux https://github.com/Marakusa/ari
+- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
+- Lightweight and simple text editor for linux https://github.com/Marakusa/Scribbit
 
 ## Contact
 If you want to contact me:
