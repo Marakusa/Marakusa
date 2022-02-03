@@ -6,7 +6,7 @@ I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**. If yo
 
 I have started learning some C++ and I have created two projects where I use it: https://github.com/Marakusa/neptyne and https://github.com/Marakusa/Minesweeper (please forgive the spaghetti mess I'm stil learning it).
 
-Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Linux is the best OS, change my mind.
+Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Linux is the best OS, change my mind. Also spread love to Valve for creating Proton and hopefully Steam Deck if it succeeds.
 
 ## Some projects to check out
 (Note that these projects are not nearly finished at all, I like to jump from a project to another to learn new things more quickly :D)
