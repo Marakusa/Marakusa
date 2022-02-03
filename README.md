@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games.
+My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games. Also I got a job at Pinja for now besides my studies.
 
 I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org).
 
