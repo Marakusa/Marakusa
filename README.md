@@ -5,6 +5,7 @@ My name is Markus. I'm from Finland. I like to spend my free time playing games 
 I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org).
 
 I have started learning some C++ and I have created two projects where I use it: https://github.com/Marakusa/neptyne and https://github.com/Marakusa/Minesweeper (please forgive the spaghetti mess I'm stil learning it).
+
 Also "I use Arch btw" on my main PC for a while, and I'm somewhat experienced in hosting a Linux server. Linux is the best OS, change my mind.
 
 ## Some projects to check out
