@@ -10,6 +10,7 @@ Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experi
 
 ## Some projects to check out
 (Note that these projects are not nearly finished at all, I like to jump from a project to another to learn new things more quickly :D)
+- Programming language (compiler) https://github.com/Marakusa/Neptyne
 - Open source chat application https://github.com/Marakusa/NeoChat
 - OpenGL Minecraft clone created with .NET https://github.com/Marakusa/VoxelGame
 - Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
