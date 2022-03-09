@@ -8,13 +8,6 @@ I have started learning some C++ and I have created two projects where I use it:
 
 Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Linux is the best OS, change my mind. Also spread love to Valve for creating Proton and hopefully Steam Deck if it succeeds.
 
-## Some projects to check out
-(Note that these projects are not nearly finished at all, I like to jump from a project to another to learn new things more quickly :D)
-- Programming language https://github.com/Marakusa/neptyne
-- Open source chat application https://github.com/Marakusa/NeoChat
-- OpenGL Minecraft clone created with .NET https://github.com/Marakusa/VoxelGame
-- Cross-platform 2D .NET game engine https://github.com/Marakusa/Clever2D
-
 ## Contact
 If you want to contact me:
 - Discord: Mara#2222
@@ -25,6 +18,7 @@ Well, I guess that's it for now 😄
 
 Have a wonderful day! 😊
 
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marakusa&count_private=true&theme=dracula" />
 </a>
