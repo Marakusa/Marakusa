@@ -2,11 +2,11 @@
 
 My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games. Also I got a job at Pinja for now besides my studies.
 
-I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**. If you're interested in trying out some of my games, you can visit my website at [aquaticstudios.org](https://aquaticstudios.org).
+I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**.
 
 I have started learning some C++ and I have created two projects where I use it: https://github.com/Marakusa/neptyne and https://github.com/Marakusa/Minesweeper (please forgive the spaghetti mess I'm stil learning it).
 
-Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Linux is the best OS, change my mind. Also spread love to Valve for creating Proton and hopefully Steam Deck if it succeeds.
+Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Also spread love to Valve for creating Proton and hopefully Steam Deck if it succeeds.
 
 ## Contact
 If you want to contact me:
