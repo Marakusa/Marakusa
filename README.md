@@ -8,12 +8,6 @@ I have started learning some C++ and I have created two projects where I use it:
 
 Also "I use Arch btw" on my main PC for a couple months, and I'm somewhat experienced in hosting a Linux server. Also spread love to Valve for creating Proton and hopefully Steam Deck if it succeeds.
 
-## Contact
-If you want to contact me:
-- Discord: Mara#2222
-- [Steam](https://steamcommunity.com/id/Marakusa/)
-
-
 Well, I guess that's it for now 😄
 
 Have a wonderful day! 😊
