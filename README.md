@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games. Also I got a job at Pinja for now besides my studies.
+My name is Markus. I'm from Finland. I like to spend my free time playing games and developing games. I'm working at Pinja and I study at JAMK university of applied sciences to an ICT engineer.
 
 I use **C#**, **JS**, **Node**, **Python**, **HTML**, **PHP** and **SQL**.
 
